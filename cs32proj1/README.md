@@ -1,6 +1,4 @@
-CS 32 Project 3
-Haixi Ni
-404383125
+
 
 High Level Description
 
